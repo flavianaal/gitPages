@@ -60,3 +60,20 @@ body, html {
 .container-botoes button:hover {
     background-color: #c46984; 
 }
+.midia-sociais {
+    margin-top: 20px; 
+}
+
+.midia-sociais a {
+    display: inline-block;
+    margin-right: 10px; 
+    font-size: 24px; 
+    color: #000000; 
+    transition: color 0.3s ease; 
+}
+
+.midia-sociais a:hover {
+    color: #c46984; 
+}
+
+
