@@ -1,5 +1,5 @@
 document.getElementById('projeto1').addEventListener('click', function() {
-    abrirProjeto('https://github.com/flavianaal/Calculadora_programeIO');
+    abrirProjeto('https://flavianaal.github.io/Calculadora_programeIO/');
 });
 
 
