@@ -6,6 +6,10 @@ document.getElementById('projeto2').addEventListener('click', function() {
     abrirProjeto('https://flavianaal.github.io/desafioPokemon/');
 });
 
+document.getElementById('projeto3').addEventListener('click', function() {
+    abrirProjeto('https://flavianaal.github.io/JuliaVoices/');
+});
+
 
 
 // Função para abrir o projeto em uma nova página
